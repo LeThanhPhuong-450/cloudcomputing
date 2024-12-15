@@ -90,7 +90,7 @@ DATABASES = {
         'NAME': 'cloudcomputing',
         'USER': 'cloudcomputing',
         'PASSWORD': '123456789',
-        'HOST': 'cloudcomputing.c3ioum466rj6.ap-southeast-2.rds.amazonaws.com',
+        'HOST': 'cloudcomputing.cx2q0yosyp7y.ap-southeast-2.rds.amazonaws.com',
         'PORT': '3306',
         'OPTIONS': {
             'ssl_disabled': True
